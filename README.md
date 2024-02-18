@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+<h1>Made Calculator app in an hour</h1>
+
+
+
+https://github.com/kartikayakulshrestha/Calculator/assets/126651238/65763ea9-4a0b-4185-b3c8-5b20f5acc5c1
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
